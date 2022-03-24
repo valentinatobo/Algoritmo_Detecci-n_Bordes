@@ -1,0 +1,1 @@
+# Algoritmo_Detecci-n_Bordes
