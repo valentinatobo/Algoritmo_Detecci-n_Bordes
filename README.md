@@ -4,7 +4,7 @@
 
 ## Resultados :eyes:
 
-<img align="center" width="150px" src="https://imgur.com/5TJ0cqW" />
+<img align="center" width="150px" src="https://i.imgur.com/5TJ0cqW" />
 
-<img align="center" width="150px" src="https://imgur.com/e7h1InP" />
+<img align="center" width="150px" src="https://i.imgur.com/e7h1InP" />
 
