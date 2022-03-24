@@ -4,7 +4,6 @@
 
 ## Resultados :eyes:
 
-[ResultadoUno](https://imgur.com/5TJ0cqW)
+[ <img align="left" alt="ValenTobo | Resuktado uno" width="50px" src="https://imgur.com/5TJ0cqW" /> ][ResultadoUno]
 
-[ResultadoDos](https://imgur.com/e7h1InP)
-
+[ <img align="left" alt="ValenTobo | Resuktado uno" width="50px" src="https://imgur.com/e7h1InP" /> ][ResultadoDos]
